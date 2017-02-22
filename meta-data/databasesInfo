@@ -1,0 +1,20 @@
+
+------------ DATABASE: USERS ----------------------------
+
+database host: sql204.ultimatefreehost.in
+database name: ltm_19708752_users
+database pass: gy2lysme!
+
+
+
+-- tables in this db:
+
+	- authInfo
+		- id
+		- password
+		
+	- userProfile
+		-
+		-
+		-
+		-
